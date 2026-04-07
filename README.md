@@ -22,4 +22,14 @@ Data analyst associate specializing in turning complex data into actionable insi
     <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,tableau&theme=dark" />
   </a>
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,tableau&theme=dark" />
+</p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" alt="python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" alt="postgres" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" alt="powerbi" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" width="50" alt="tableau" />
+</p>
