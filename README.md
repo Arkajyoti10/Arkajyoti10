@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 ## Arkajyoti Basu Ray Data Analyst 
 Data analyst associate specializing in turning complex data into actionable insights through 85% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
 ## ⚒️ Technical Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,tableau,r,excel,git,linux" />
+  </a>
+</p>
