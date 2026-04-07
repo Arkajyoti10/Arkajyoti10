@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Arkajyoti Basu Ray Data Analyst 
+# Arkajyoti Basu Ray | Data Analyst 
 ## **About Me**
 
 I am a **B.Tech (2026)** student and **Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
