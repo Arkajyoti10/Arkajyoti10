@@ -24,3 +24,6 @@ Data analyst associate specializing in turning complex data into actionable insi
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" height="50" alt="PowerBI" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" width="50" height="50" alt="Tableau" />
 </p>
+| Data Scripting | Visualization Tools | Database Management |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python" width="40" /> | <img src="https://skillicons.dev/icons?i=powerbi,tableau" width="85" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" width="85" /> |
