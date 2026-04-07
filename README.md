@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 Data analyst associate specializing in turning complex data into actionable insights through 85% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
 ## ⚒️ Technical Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="Postgres" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" height="50" alt="PowerBI" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" width="50" height="50" alt="Tableau" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,tableau&theme=dark" />
+  </a>
 </p>
-| Data Scripting | Visualization Tools | Database Management |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" width="40" /> | <img src="https://skillicons.dev/icons?i=powerbi,tableau" width="85" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" width="85" /> |
+
