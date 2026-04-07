@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ## Arkajyoti Basu Ray Data Analyst 
 Data analyst associate specializing in turning complex data into actionable insights through 85% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
 ## ⚒️ Technical Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,r,excel,git,linux" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="Postgres" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI-Dark.svg" width="50" height="50" alt="PowerBI" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau-Dark.svg" width="50" height="50" alt="Tableau" />
 </p>
