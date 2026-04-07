@@ -26,6 +26,6 @@ I am a **B.Tech (2026)** student and **Data Analyst** specializing in transformi
 ## ⚒️ Technical Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,gcp,powerbi,tableau,jupyter,github,matplotlib&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,gcp,powerbi,jupyter,git,matplotlib&theme=dark" />
   </a>
 </p>
