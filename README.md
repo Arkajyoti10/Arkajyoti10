@@ -29,3 +29,10 @@ I am a **B.Tech (2026)** student and **Data Analyst** specializing in transformi
     <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,gcp,git&theme=dark" />
   </a>
 </p>
+
+## 📈 Let's Connect
+I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
+
+LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
+Portfolio: https://github.com/Arkajyoti10
+Email: arkajyotibasuray100"gmail.com
