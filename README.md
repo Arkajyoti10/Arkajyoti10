@@ -33,6 +33,6 @@ I am a **B.Tech (2026)** student and **Data Analyst** specializing in transformi
 ## 📈 Let's Connect
 I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
 
-LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
-Portfolio: https://github.com/Arkajyoti10
-Email: arkajyotibasuray100"gmail.com
+1. LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
+2. Portfolio: https://github.com/Arkajyoti10
+3. Email: arkajyotibasuray100"gmail.com
