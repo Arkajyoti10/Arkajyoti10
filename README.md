@@ -1,4 +1,4 @@
-## Hey there 👋
+# Hey there 👋
 
 <!--
 **Arkajyoti10/Arkajyoti10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Arkajyoti Basu Ray Data Analyst 
+B.Tech student(2026) specializing in turning complex data into actionable insights through *%% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
