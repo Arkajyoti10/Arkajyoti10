@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 I am a **B.Tech (2026)** student and **Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
 
 1. **Predictive Modeling:** Achieving **85% accuracy** on loan risk and industrial datasets using Python and Scikit-Learn.
+   
 2. **Industrial Automation:** Developing **Power BI dashboards** and SCADA solutions for real-time decision-making at **Indian Oil**.
+   
 3. **Large-Scale Analysis:** Processing **3.2M+ rows** of data to drive membership ROI and operational efficiency.
 
 ## Featured Projects
