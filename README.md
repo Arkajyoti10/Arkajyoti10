@@ -19,6 +19,6 @@ Data analyst associate specializing in turning complex data into actionable insi
 ## ⚒️ Technical Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,tableau,r,excel,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,powerbi,r,excel,git,linux" />
   </a>
 </p>
