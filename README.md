@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Arkajyoti Basu Ray Data Analyst 
-Data analyst associate specializing in turning complex data into actionable insights through *%% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
+Data analyst associate specializing in turning complex data into actionable insights through 85% accurate predictive modeling, interactive dashboards, and process automation at Indian Oil.
+## ⚒️ Technical Stack
+
