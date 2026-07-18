@@ -39,9 +39,10 @@ I am a 📚**B.Tech (2026)** student and 📊**Data Analyst** specializing in tr
     <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,gcp,git&theme=dark" />
   </a>
 </p>
-1. **Languages & Analysis** - Python (Pandas, NumPy, Scikit-Learn), R, SQL (MySQL, PostgreSQL, BigQuery) 
-2. **Visualization & Cloud** - Power BI (DAX), Tableau, Matplotlib, Seaborn | Google BigQuery, AWS, Jupyter Notebooks 
-3. **ML & Techniques** - Linear Regression, Classification, Feature Engineering, ETL Pipelines, Statistical Analysis 
+
+ 1. **Languages & Analysis** - Python          (Pandas, NumPy, Scikit-Learn),         R, SQL (MySQL, PostgreSQL,             BigQuery) 
+ 2. **Visualization & Cloud** - Power          BI (DAX), Tableau, Matplotlib,         Seaborn | Google BigQuery,             AWS, Jupyter Notebooks 
+ 3. **ML & Techniques** - Linear               Regression, Classification,            Feature Engineering, ETL               Pipelines, Statistical                 Analysis 
 
 ## 📈 Let's Connect
 I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
