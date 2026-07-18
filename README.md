@@ -27,11 +27,11 @@ I am a **B.Tech (2026)** student and **Data Analyst** specializing in transformi
 
 ## 🚀 Featured Projects
 
-1. **Loan Risk Prediction Analysis**: Developed a machine learning model to assess credit risk, improving prediction accuracy by **85%** for loan approvals using Random Forest and Logistic Regression.
+1. 📈**Loan Risk Prediction Analysis**: Developed a machine learning model to assess credit risk, improving prediction recall by ✨**91%** for loan approvals using Random Forest and Logistic Regression.
    
-2. **Cyclistic Case Study**: Analyzed over **3.2 million** rows of trip data using SQL and Python to identify trends in user behavior and recommend marketing strategies for subscription conversions.
+2. 🚲**Cyclistic Case Study**: Analyzed over 🚀**3.2 million** rows of trip data using SQL and Python to identify trends in user behavior and recommend marketing strategies for subscription conversions.
    
-3. **Bellabeat Fitness Data Analysis**: Conducted a deep dive into smart device data to provide high-level recommendations for marketing growth, focusing on user activity and sleep patterns.
+3. ⏳**Bellabeat Fitness Data Analysis**: Conducted a deep dive into smart device data to provide high-level recommendations for marketing growth, focusing on user activity and sleep patterns.
 
 ## ⚒️ Technical Stack
 <p align="left">
