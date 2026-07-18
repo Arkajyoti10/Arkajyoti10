@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # Arkajyoti Basu Ray | Data Analyst 
 ## **About Me**
 
-I am a **B.Tech (2026)** student and **Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
+I am a 📚**B.Tech (2026)** student and 📊**Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
 
-1. **Predictive Modeling:** Achieving **85% accuracy** on loan risk and industrial datasets using Python and Scikit-Learn.
+1. 🚀**Predictive Modeling:** Achieving 📍**91% recall** on loan risk and industrial datasets using Python and Scikit-Learn.
    
-2. **Industrial Automation:** Developing **Power BI dashboards** and SCADA solutions for real-time decision-making at **Indian Oil**.
+2. 🤖**Industrial Automation:** Developing 📊**Power BI dashboards** and SCADA solutions for real-time decision-making at **Indian Oil**.
    
-3. **Large-Scale Analysis:** Processing **3.2M+ rows** of data to drive membership ROI and operational efficiency.
+3. 📑**Large-Scale Analysis:** Processing 🔗**3.2M+ rows** of data to drive membership ROI and operational efficiency.
 
 ## 🚀 Featured Projects
 
@@ -43,8 +43,8 @@ I am a **B.Tech (2026)** student and **Data Analyst** specializing in transformi
 ## 📈 Let's Connect
 I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
 
-1. LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
-2. Portfolio: https://github.com/Arkajyoti10
-3. Email: arkajyotibasuray100@gmail.com
+1. 🪪LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
+2. 📑Portfolio: https://github.com/Arkajyoti10
+3. 📧Email: arkajyotibasuray100@gmail.com
 
 #### *Turning raw Data into actionable Insights*   
