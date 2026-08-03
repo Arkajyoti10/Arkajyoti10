@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a 📚**B.Tech (2026)** Graduate and 📊**Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
 
-1. 🚀**Predictive Modeling:** Achieving 📍**91% recall** on loan risk and industrial datasets using Python and Scikit-Learn.
+1. 🚀**Predictive Modeling:** Achieving 📍**97% recall** on loan risk and industrial datasets using Python and Scikit-Learn.
    
 2. 🤖**Industrial Automation:** Developing 📊**Power BI dashboards** and SCADA solutions for real-time decision-making at **Indian Oil**.
    
@@ -27,7 +27,7 @@ I am a 📚**B.Tech (2026)** Graduate and 📊**Data Analyst** specializing in t
 
 ## 🚀 Featured Projects
 
-1. 📈**Loan Risk Prediction Analysis**: Developed a machine learning model to assess credit risk, improving prediction recall by ✨**91%** for loan approvals using Random Forest and Logistic Regression.
+1. 📈**Loan Risk Prediction Analysis**: Developed a machine learning model to assess credit risk, improving prediction recall by ✨**97%** for loan approvals using Random Forest and Logistic Regression.
    
 2. 🚲**Cyclistic Case Study**: Analyzed over 🚀**3.2 million** rows of trip data using SQL and Python to identify trends in user behavior and recommend marketing strategies for subscription conversions.
    
@@ -42,7 +42,7 @@ I am a 📚**B.Tech (2026)** Graduate and 📊**Data Analyst** specializing in t
 
  1. **Languages & Analysis** - Python          (Pandas, NumPy, Scikit-Learn),         R, SQL (MySQL, PostgreSQL,             BigQuery) 
  2. **Visualization & Cloud** - Power          BI (DAX), Tableau, Matplotlib,         Seaborn | Google BigQuery,             AWS, Jupyter Notebooks 
- 3. **ML & Techniques** - Logostic               Regression, Classification,            Feature Engineering, ETL               Pipelines, Statistical                 Analysis 
+ 3. **ML & Techniques** - Logistic               Regression, Classification,            Feature Engineering, ETL               Pipelines, Statistical                 Analysis 
 
 ## 📈 Let's Connect
 I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
