@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Arkajyoti Basu Ray | Data Analyst 
 ## **About Me**
 
-I am a 📚**B.Tech (2026)** student and 📊**Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
+I am a 📚**B.Tech (2026)** Graduate and 📊**Data Analyst** specializing in transforming complex datasets into actionable insights. I have a proven track record of:
 
 1. 🚀**Predictive Modeling:** Achieving 📍**91% recall** on loan risk and industrial datasets using Python and Scikit-Learn.
    
