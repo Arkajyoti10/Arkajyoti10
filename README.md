@@ -35,7 +35,8 @@ I am a 📚**B.Tech (2026)** Graduate and 📊**Data Analyst** specializing in t
 I am always looking for opportunities to collaborate on interesting data projects or discuss the latest trends in AI and analytics.
 
 1. 🪪LinkedIn: https://www.linkedin.com/in/arkajyoti-basu-ray-4219a5282
-2. 📑Portfolio: https://github.com/Arkajyoti10
-3. 📧Email: arkajyotibasuray100@gmail.com
+2. 📑Portfolio:
+https://arkajyoti10.github.io 
+4. 📧Email: arkajyotibasuray100@gmail.com
 
 #### *Turning raw Data into actionable Insights*
