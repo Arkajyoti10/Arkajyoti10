@@ -3,7 +3,8 @@
 # Arkajyoti Basu Ray | Data Analyst 
 ## **About Me**
 
-I build automated data pipelines and dashboards that turn raw data into decisions — from SQL to AI-generated reports. I have a proven track record of:
+I build automated data pipelines and dashboards that turn raw data into decisions — from SQL to AI-generated reports. Open to freelance/contract data analytics work. 
+I have a proven track record of:
 
 1. 🚀**Predictive Modeling:** Achieving 📍**97% recall** on loan risk datasets using Python and Scikit-Learn.
    
